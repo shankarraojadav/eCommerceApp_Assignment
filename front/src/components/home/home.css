@@ -1,0 +1,19 @@
+.show_products {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin-top: 40px;
+    border: 1px solid transparent;
+    max-width: 250px;
+    height: 50vh;
+    text-align: center;
+    box-shadow: 1px 1px 6px 1px;
+}
+
+.card_data {
+
+}

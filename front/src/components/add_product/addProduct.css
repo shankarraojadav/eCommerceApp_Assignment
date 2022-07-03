@@ -1,0 +1,16 @@
+.addproduct {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid transparent;
+    max-width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+}
+
+input {
+    width: 400px;
+    height: 40px;
+    margin: 20px;
+    align-self: center;
+}
